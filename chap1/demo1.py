@@ -11,6 +11,7 @@ print("hello world")
 
 # 可以输出含有运算符的表达式
 print(3+1)
+print()
 
 '''
 # 将数据输出到文件中
