@@ -1,0 +1,18 @@
+第九章小节
+1.字符串的驻留      d1
+驻留的情况
+驻留的优点
+强制驻留的方法
+
+2.字符串的各种操作
+查询   index（），rindex（），find（），rfind（）      d2
+大小写转换        upper（），lower（）                d3
+内容对齐          center（）                        d4
+劈分             split（）                          d5
+判断             isdecimal（）                      d6
+替换             replace（）                        d7
+合并             join（）                           d7
+比较              >,<                              d8
+切片              [::]                             d9
+格式化字符串       %,format()                        d10 d11
+字符串编码                                           d12

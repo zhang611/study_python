@@ -1,0 +1,13 @@
+第五章小节
+1.range（）函数   d1
+生成整数序列
+起始值默认为0
+步长默认为1
+2.循环结构
+while循环       d2 d3 d4
+for—in循环      d5 d6
+3.三个关键字
+break          d7 d8
+continue       d9
+else           d10 d11
+4.嵌套循环      d12 d13 d14
